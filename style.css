@@ -1,0 +1,37 @@
+body {
+  background-color: #eaf4f4;
+  font-family: Arial;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: #1b4965;
+  font-size: 50px;
+}
+
+h2 {
+  color: #1b4965;
+  margin-top: 50px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 50px auto;
+  width: fit-content;
+  text-align: left;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 30px auto;
+  width: 70%;
+}
+
+img {
+  width: 500px;
+  max-width: 90%;
+  margin: 20px;
+}
